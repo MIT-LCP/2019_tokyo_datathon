@@ -15,10 +15,10 @@ The interactive workshop explores the [eICU Collaborative Research Database](htt
 
 ## Open in Colab
 
-<a href=\"https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/01_explore_patients.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+Notebook 1: Exploring the patient data. <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/01_explore_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
-<a href=\"https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/02_severity_of_illness.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+Notebook 1: Severity of illness. <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/02_severity_of_illness.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
-<a href=\"https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/03_summary_statistics.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+Notebook 1: Summary statistics. <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/03_summary_statistics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
-<a href=\"https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/04_prediction.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+Notebook 1: Predicting hospital outcome using decision trees. <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/04_prediction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
