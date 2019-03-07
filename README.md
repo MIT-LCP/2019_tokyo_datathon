@@ -17,8 +17,16 @@ The interactive workshop explores the [eICU Collaborative Research Database](htt
 
 - <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/01_explore_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> Notebook 1: Exploring the patient data.
 
+- <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/01_explore_patients_satoshi.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> Notebook 1: Exploring the patient data (Japanese translation).
+
 - <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/02_severity_of_illness.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> Notebook 2: Severity of illness.
+
+- <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/02_severity_of_illness_satoshi.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> Notebook 2: Severity of illness (Japanese translation).
 
 - <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/03_summary_statistics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> Notebook 3: Summary statistics. 
 
+- <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/03_summary_statistics_satoshi.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> Notebook 3: Summary statistics (Japanese translation).
+
 - <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/04_prediction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> Notebook 4: Predicting hospital outcome using decision trees. 
+
+- <a href="https://colab.research.google.com/github/MIT-LCP/2019_tokyo_datathon/blob/master/04_prediction_satoshi.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> Notebook 4: Predicting hospital outcome using decision trees (Japanese translation).
